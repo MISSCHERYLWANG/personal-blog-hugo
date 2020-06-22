@@ -37,7 +37,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.ACTION_DEPLOY_ACCESS_TOKEN }}
+        personal_token: ${{ secrets.ACTION_DEPLOY_ACCESS_TOKEN }}
         external_repository: MISSCHERYLWANG/misscherylwang.github.io
         publish_branch: master
         publish_dir: ./public

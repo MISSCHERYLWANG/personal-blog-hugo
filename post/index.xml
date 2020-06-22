@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jingxi&#39;s personal blog.</title>
+    <link>https://misscherylwang.github.io/post/</link>
+    <description>Recent content in Posts on Jingxi&#39;s personal blog.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jun 2020 17:41:18 +0800</lastBuildDate>
+    
+	<atom:link href="https://misscherylwang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1277. Count Square Submatrices with All Ones-数出所有的全1方阵</title>
+      <link>https://misscherylwang.github.io/post/leetcode1277/</link>
+      <pubDate>Fri, 19 Jun 2020 17:41:18 +0800</pubDate>
+      
+      <guid>https://misscherylwang.github.io/post/leetcode1277/</guid>
+      <description>问题描述 Given a m * n matrix of ones and zeros, return how many square submatrices have all ones. Example: Input: matrix = [ [0,1,1,1], [1,1,1,1], [0,1,1,1] ] Output: 15 从上面的栗子可以看出方形子矩阵边为1的有10个，边为2的有4个，边为3的有</description>
+    </item>
+    
+    <item>
+      <title>1481. Least Number of Unique Integers after K Removals-K清除后的不同元素的最小个数</title>
+      <link>https://misscherylwang.github.io/post/leetcode1481/</link>
+      <pubDate>Fri, 12 Jun 2020 18:41:18 +0800</pubDate>
+      
+      <guid>https://misscherylwang.github.io/post/leetcode1481/</guid>
+      <description>问题描述 Given an array of integers arr and an integer k. Find the least number of unique integers after removing exactly k elements. Example: Input: arr = [5,5,4], k = 1 Output: 1 解题思路 这道题目求解在数组中去除k个元素后所剩余的不同元素的最小值。</description>
+    </item>
+    
+    <item>
+      <title>813. Largest Sum of Averages-最大的平均数之和</title>
+      <link>https://misscherylwang.github.io/post/leetcode813/</link>
+      <pubDate>Wed, 10 Jun 2020 17:41:18 +0800</pubDate>
+      
+      <guid>https://misscherylwang.github.io/post/leetcode813/</guid>
+      <description>问题描述 We partition a row of numbers A into at most K adjacent (non-empty) groups, then our score is the sum of the average of each group. What is the largest score we can achieve? Note that our partition must use every number in A, and that scores are not necessarily integers. Example: Input: A = [9,1,2,3,9] K = 3 Output: 20 这道题目求</description>
+    </item>
+    
+  </channel>
+</rss>

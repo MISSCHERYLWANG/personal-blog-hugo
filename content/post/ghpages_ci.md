@@ -3,7 +3,7 @@ title: "HUGO+Github+Github Actions实现个人博客搭建和部署"
 date: 2020-06-23T22:59:27+08:00
 draft: true
 tags: ["GitHub Actions", "CI/CD"]
-categories: ["踩坑系列"]
+categories: ["GitHub", "踩坑系列"]
 ---
 
 **前言：**这还要说到昨晚铁群提议我将个人博客部署到GitHub上，他说用GitHub Actions很方便就可以部署，就不用每次写完博客还要手动`hugo`生成，然后`push`到远程。我想，确实我之前也想过这样很麻烦诶，每次写完都要手动生成最新的public文件夹，于是我就按照他发给我的教程开启了部署之路。然而谁也没想到，部署之路漫漫其修远兮，从我一个人晚上11点多弄到了凌晨1点，然后又叫铁群帮我一起弄到了🕛凌晨4点才算完成。

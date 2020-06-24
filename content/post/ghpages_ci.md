@@ -1,7 +1,7 @@
 ---
 title: "HUGO+Github+Github Actions实现个人博客搭建和部署"
 date: 2020-06-23T22:59:27+08:00
-draft: true
+draft: false
 tags: ["GitHub Actions", "CI/CD"]
 categories: ["GitHub", "踩坑系列"]
 ---
